@@ -1,0 +1,100 @@
+
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'คอนแทคแม้ค\n╠❋► มิด  ➠ MID เรา\n╠❋►ชื่อ  ➠ ชื่อเรา\n╠❋► ตัส  ➠ สถานะเรา\n╠❋► ตรวจสอบ  ➠ ผู้ตรวจสอบ\n╠❋► ดิส  ➠ รูปโปรไฟล์\n╠❋► ปก  ➠ รูปปก\n╠❋►วีดีโอ  ➠ วีดีโอโปรไฟล์\n╠❋► กลับ  ➠ กลับร่างเดิม\n╠❋► เ
+[<module 'time' (built-in)>] 'u47ed34179347015298baa5badfe51a61'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'คอนแทคแม้ค\n╠❋► มิด  ➠ MID เรา\n╠❋►ชื่อ  ➠ ชื่อเรา\n╠❋► ตัส  ➠ สถานะเรา\n╠❋► ตรวจสอบ  ➠ ผู้ตรวจสอบ\n╠❋► ดิส  ➠ รูปโปรไฟล์\n╠❋► ปก  ➠ รูปปก\n╠❋►วีดีโอ  ➠ วีดีโอโปรไฟล์\n╠❋► กลับ  ➠ กลับร่างเดิม\n╠❋► เ
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'คอนแทคแม้ค\n╠❋► มิด  ➠ MID เรา\n╠❋►ชื่อ  ➠ ชื่อเรา\n╠❋► ตัส  ➠ สถานะเรา\n╠❋► ตรวจสอบ  ➠ ผู้ตรวจสอบ\n╠❋► ดิส  ➠ รูปโปรไฟล์\n╠❋► ปก  ➠ รูปปก\n╠❋►วีดีโอ  ➠ วีดีโอโปรไฟล์\n╠❋► กลับ  ➠ กลับร่างเดิม\n╠❋► เ
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of groupTitle: คำสั่งกลุ่ม⍣Assmax⍣\n╔══════════════════┓\n╠❋► กลุ่ม ➠ ข้อมูลกลุ่ม\n╠❋► ไอดีกลุ่ม ➠ไอดีห้อง\n╠❋► ➠ ชื่อห้อง\n╠❋► ข้อความ ➠ เปลี่ยนชื่อห้อง\n╠❋► รูปกลุ่ม ➠ รูปกลุ่ม\n╠❋► บ้าน ➠ ดูรายชื่อกลุ่ม\n╠❋► สมาชิก ➠รายชื่อคนในห้อง\n╠❋► เปิดลิ้ง ➠ เปิดลิ้งกลุ่ม\n╠❋► ปิดลิ้ง ➠ ปิดลิ้งกลุ่ม\n╠❋► ลิ้ง ➠ ขอลิ้งกลุ่ม\n╠❋► MIDกลุ่ม  ➠ ดูมิดกลุ่ม\n╠❋► แทค ➠ แทคคนในกลุ่ม\n╠❋► ดึง ➠ เชิญด้วยคอนแทค\n╠❋► ตั้งเวลา ➠ ตั้งเวลา\n╠❋► ปิดเวลา ➠ ปิดเวลา\n╠❋► รีเวลา ➠ ลบเวลาคนอ่าน\n╠❋► bo ➠ รายชื่อที่เราบ๊อคเพื่อน\n╠❋► #ประกาศ: ข้อความ ➠ ส่งแชททุกห้อง', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of groupTitle: คำสั่งกลุ่ม⍣Assmax⍣\n╔══════════════════┓\n╠❋► กลุ่ม ➠ ข้อมูลกลุ่ม\n╠❋► ไอดีกลุ่ม ➠ไอดีห้อง\n╠❋► ➠ ชื่อห้อง\n╠❋► ข้อความ ➠ เปลี่ยนชื่อห้อง\n╠❋► รูปกลุ่ม ➠ รูปกลุ่ม\n╠❋► บ้าน ➠ ดูรายชื่อกลุ่ม\n╠❋► สมาชิก ➠รายชื่อคนในห้อง\n╠❋► เปิดลิ้ง ➠ เปิดลิ้งกลุ่ม\n╠❋► ปิดลิ้ง ➠ ปิดลิ้งกลุ่ม\n╠❋► ลิ้ง ➠ ขอลิ้งกลุ่ม\n╠❋► MIDกลุ่ม  ➠ ดูมิดกลุ่ม\n╠❋► แทค ➠ แทคคนในกลุ่ม\n╠❋► ดึง ➠ เชิญด้วยคอนแทค\n╠❋► ตั้งเวลา ➠ ตั้งเวลา\n╠❋► ปิดเวลา ➠ ปิดเวลา\n╠❋► รีเวลา ➠ ลบเวลาคนอ่าน\n╠❋► bo ➠ รายชื่อที่เราบ๊อคเพื่อน\n╠❋► #ประกาศ: ข้อความ ➠ ส่งแชททุกห้อง', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of groupTitle: คำสั่งกลุ่ม⍣Assmax⍣\n╔══════════════════┓\n╠❋► กลุ่ม ➠ ข้อมูลกลุ่ม\n╠❋► ไอดีกลุ่ม ➠ไอดีห้อง\n╠❋► ➠ ชื่อห้อง\n╠❋► ข้อความ ➠ เปลี่ยนชื่อห้อง\n╠❋► รูปกลุ่ม ➠ รูปกลุ่ม\n╠❋► บ้าน ➠ ดูรายชื่อกลุ่ม\n╠❋► สมาชิก ➠รายชื่อคนในห้อง\n╠❋► เปิดลิ้ง ➠ เปิดลิ้งกลุ่ม\n╠❋► ปิดลิ้ง ➠ ปิดลิ้งกลุ่ม\n╠❋► ลิ้ง ➠ ขอลิ้งกลุ่ม\n╠❋► MIDกลุ่ม  ➠ ดูมิดกลุ่ม\n╠❋► แทค ➠ แทคคนในกลุ่ม\n╠❋► ดึง ➠ เชิญด้วยคอนแทค\n╠❋► ตั้งเวลา ➠ ตั้งเวลา\n╠❋► ปิดเวลา ➠ ปิดเวลา\n╠❋► รีเวลา ➠ ลบเวลาคนอ่าน\n╠❋► bo ➠ รายชื่อที่เราบ๊อคเพื่อน\n╠❋► #ประกาศ: ข้อความ ➠ ส่งแชททุกห้อง', parameterMap=None)
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'คอนแทคแม้ค\n╠❋► มิด  ➠ MID เรา\n╠❋►ชื่อ  ➠ ชื่อเรา\n╠❋► ตัส  ➠ สถานะเรา\n╠❋► ตรวจสอบ  ➠ ผู้ตรวจสอบ\n╠❋► ดิส  ➠ รูปโปรไฟล์\n╠❋► ปก  ➠ รูปปก\n╠❋►วีดีโอ  ➠ วีดีโอโปรไฟล์\n╠❋► กลับ  ➠ กลับร่างเดิม\n╠❋► เ
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'คอนแทคแม้ค\n╠❋► มิด  ➠ MID เรา\n╠❋►ชื่อ  ➠ ชื่อเรา\n╠❋► ตัส  ➠ สถานะเรา\n╠❋► ตรวจสอบ  ➠ ผู้ตรวจสอบ\n╠❋► ดิส  ➠ รูปโปรไฟล์\n╠❋► ปก  ➠ รูปปก\n╠❋►วีดีโอ  ➠ วีดีโอโปรไฟล์\n╠❋► กลับ  ➠ กลับร่างเดิม\n╠❋► เ
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] local variable 'text' referenced before assignment
+[<module 'time' (built-in)>] ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='dl.profile.line.naver.jp', port=443): Max retries exceeded with url: /r/talk/p/u312716209f491d0b626f305bdd40631f?r=1574427947 (Caused by SSLError(CertificateError("hostname 'dl.profile.line.naver.jp' doesn't match either of 'd.line-scdn.net', 'game-lgmatcha-alpha.line-scdn.net', 'linemyshop.com', 'stickershop.line-scdn.net', 'game-mikan.line-scdn.net', 'sprofile.line-scdn.net', 'game-lgshop.line-scdn.net', 'guide-cdn.line-apps.com', 'game-lggrtw.line-scdn.net', 'game-lgmatcha.line-scdn.net', 'stickershop-beta.line-scdn.net', 'game-catcafe.line-scdn.net', 'www.linemyshop.com', 'game-pod.line-scdn.net', 'today.line-scdn.net', 'obs.line-scdn.net', 'yuki-cdn.line-apps-rc.com', 'game-lggrth.line-scdn.net', 'game-beta.line-scdn.net', 'lg-borne-ppp.line-scdn.net', 'game.line-scdn.net', 'game-lgydsg.line-scdn.net', 'egg.line-scdn.net', 'game-optw.line-scdn.net', 'game-lgboco.line-scdn.net', 'game-lgdrpk.line-scdn.net', 'shop.line-scdn.net', 'profile.line-scdn.net', 'dl-hsp.profile.line.naver.jp', 'cdn-lg.line-apps.com', 'lss.line-scdn.net', 'coupon.line-apps.com', 'game-lgbb3.line-scdn.net', 'w.line-scdn.net', 'yuki-cdn.line-apps-beta.com'",),))
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] local variable 'text' referenced before assignment
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'คอนแทคแม้ค\n╠❋► มิด  ➠ MID เรา\n╠❋►ชื่อ  ➠ ชื่อเรา\n╠❋► ตัส  ➠ สถานะเรา\n╠❋► ตรวจสอบ  ➠ ผู้ตรวจสอบ\n╠❋► ดิส  ➠ รูปโปรไฟล์\n╠❋► ปก  ➠ รูปปก\n╠❋►วีดีโอ  ➠ วีดีโอโปรไฟล์\n╠❋► กลับ  ➠ กลับร่างเดิม\n╠❋► เ
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of groupTitle: คำสั่งกลุ่ม⍣Assmax⍣\n╔══════════════════┓\n╠❋► กลุ่ม ➠ ข้อมูลกลุ่ม\n╠❋► ไอดีกลุ่ม ➠ไอดีห้อง\n╠❋► ➠ ชื่อห้อง\n╠❋► ข้อความ ➠ เปลี่ยนชื่อห้อง\n╠❋► รูปกลุ่ม ➠ รูปกลุ่ม\n╠❋► บ้าน ➠ ดูรายชื่อกลุ่ม\n╠❋► สมาชิก ➠รายชื่อคนในห้อง\n╠❋► เปิดลิ้ง ➠ เปิดลิ้งกลุ่ม\n╠❋► ปิดลิ้ง ➠ ปิดลิ้งกลุ่ม\n╠❋► ลิ้ง ➠ ขอลิ้งกลุ่ม\n╠❋► MIDกลุ่ม  ➠ ดูมิดกลุ่ม\n╠❋► แทค ➠ แทคคนในกลุ่ม\n╠❋► ดึง ➠ เชิญด้วยคอนแทค\n╠❋► ตั้งเวลา ➠ ตั้งเวลา\n╠❋► ปิดเวลา ➠ ปิดเวลา\n╠❋► รีเวลา ➠ ลบเวลาคนอ่าน\n╠❋► bo ➠ รายชื่อที่เราบ๊อคเพื่อน\n╠❋► #ประกาศ: ข้อความ ➠ ส่งแชททุกห้อง', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'คอนแทคแม้ค\n╠❋► มิด  ➠ MID เรา\n╠❋►ชื่อ  ➠ ชื่อเรา\n╠❋► ตัส  ➠ สถานะเรา\n╠❋► ตรวจสอบ  ➠ ผู้ตรวจสอบ\n╠❋► ดิส  ➠ รูปโปรไฟล์\n╠❋► ปก  ➠ รูปปก\n╠❋►วีดีโอ  ➠ วีดีโอโปรไฟล์\n╠❋► กลับ  ➠ กลับร่างเดิม\n╠❋► เ
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'คอนแทคแม้ค\n╠❋► มิด  ➠ MID เรา\n╠❋►ชื่อ  ➠ ชื่อเรา\n╠❋► ตัส  ➠ สถานะเรา\n╠❋► ตรวจสอบ  ➠ ผู้ตรวจสอบ\n╠❋► ดิส  ➠ รูปโปรไฟล์\n╠❋► ปก  ➠ รูปปก\n╠❋►วีดีโอ  ➠ วีดีโอโปรไฟล์\n╠❋► กลับ  ➠ กลับร่างเดิม\n╠❋► เ
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
