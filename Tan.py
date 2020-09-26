@@ -19,9 +19,9 @@ botStart = time.time()
 #==============================================================================#
 #line = LINE()
 line = LINE("panutchakorn_2533@hotmail.com","takumi2533")
-line = LINE('')
-line.log("Auth Token : " + str(line.authToken))
-line.log("Timeline Token : " + str(line.tl.channelAccessToken))
+#line = LINE('')
+#line.log("Auth Token : " + str(line.authToken))
+#line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
 #ki = LINE()
 #ki.log("Auth Token : " + str(ki.authToken))
@@ -602,7 +602,7 @@ def lineBot(op):
                 elif text.lower() == '.เทส':
                     ki.sendMessage(to, "BotSelfยังอยู่")
                 elif text.lower() == 'เทส':
-                    line.sendMessage(to, "ตาลBotSelfกำลังโหลด:▒...0%")
+                    line.sendMessage(to, "(คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣):▒...0%")
                     line.sendMessage(to, "█▒... 10.0%")
                     line.sendMessage(to, "██▒... 20.0%")
                     line.sendMessage(to, "███▒... 30.0%")
@@ -613,7 +613,7 @@ def lineBot(op):
                     line.sendMessage(to, "████████▒... 80.0%")
                     line.sendMessage(to, "█████████▒... 90.0%")
                     line.sendMessage(to, "███████████..100.0%")
-                    line.sendMessage(to, " 🔱ตาลBotSelf ยังอยู่ครับ✔")
+                    line.sendMessage(to, " 🔱คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣ยังอยู่ครับ✔")
                 elif msg.text.lower() == ".ออน":
                     line.sendMessage(msg.to,(str(datetime.datetime.now() - start_runtime)[:-7].split(" days, ")[0]+" วัน "+str(datetime.datetime.now() - start_runtime)[:-7].split(" days, ")[1].split(":")[0]+" ชั่วโมง " if "days" in str(datetime.datetime.now() - start_runtime) else str(datetime.datetime.now() - start_runtime)[:-7].split(" day, ")[0]+" วัน "+str(datetime.datetime.now() - start_runtime)[:-7].split(" day, ")[1].split(":")[0]+" ชั่วโมง " if "day" in str(datetime.datetime.now() - start_runtime) else str(datetime.datetime.now() - start_runtime)[:-7].split(":")[0]+" ชั่วโมง ")+str(datetime.datetime.now() - start_runtime)[:-7].split(":")[1]+" นาที "+str(datetime.datetime.now() - start_runtime)[:-7].split(":")[2]+" วินาที")               
                 elif "คท " in msg.text:
@@ -713,7 +713,7 @@ def lineBot(op):
                             pass
                 elif text.lower() == 'สปีด':
                     start = time.time()
-                    line.sendMessage(to,"ความเร็วของ ตาล Bot Self...")
+                    line.sendMessage(to,"ความเร็วของ คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣...")
                     elapsed_time = time.time() - start
                     line.sendMessage(to,format(str(elapsed_time)))	
                 elif text.lower() == 'รีบอท':
@@ -724,7 +724,7 @@ def lineBot(op):
                     timeNow = time.time()
                     runtime = timeNow - botStart
                     runtime = format_timespan(runtime)
-                    line.sendMessage(to, "⏳ตาลBot Self⏳\n""ระยะเวลาการทำงานของบอท {}".format(str(runtime)))
+                    line.sendMessage(to, "⏳คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣⏳\n""ระยะเวลาการทำงานของบอท {}".format(str(runtime)))
                 elif text.lower() == 'บอท':
                     try:
                         arr = []
@@ -734,14 +734,14 @@ def lineBot(op):
                         grouplist = line.getGroupIdsJoined()
                         contactlist = line.getAllContactIds()
                         blockedlist = line.getBlockedContactIds()
-                        ret_ = "╔══[  ตาล Bot Self ]" 
+                        ret_ = "╔══[  คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣 ]" 
                         ret_ += "\n╠🌟⏩ ชื่อ ═ {}".format(contact.displayName)
                         ret_ += "\n╠🌟⏩ กลุ่ม ═ {}".format(str(len(grouplist)))
                         ret_ += "\n╠🌟⏩ เพื่อน ═ {}".format(str(len(contactlist)))
                         ret_ += "\n╠🌟⏩ บล็อค ═ {}".format(str(len(blockedlist)))
                         ret_ += "\n╠══[สถานะ]"
                         ret_ += "\n╠🌟⏩ ผู้สร้าง ═ {}".format(creator.displayName)
-                        ret_ += "\n╚══[  ตาล Bot Self ]"
+                        ret_ += "\n╚══[  คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣 ]"
                         line.sendContact(to, owner)
                         line.sendMessage(to, str(ret_))
                     except Exception as e:
@@ -1600,7 +1600,7 @@ def lineBot(op):
                     for ids in kontak:
                         msgs+="\n[%i] %s" % (num, ids.displayName)
                         num=(num+1)
-                    msgs+="\n════By.BotSelf════\n\nจำนวน : %i" % len(kontak)
+                    msgs+="\n════By.คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣════\n\nจำนวน : %i" % len(kontak)
                     line.sendMessage(receiver, msgs)
                 elif text.lower() == 'tagall':
                     group = line.getGroup(msg.to)
@@ -3152,7 +3152,7 @@ def lineBot(op):
                     blockedlist = line.getBlockedContactIds()
                     kontak = line.getContacts(blockedlist)
                     num=1
-                    msgs="═════Daftar Akun Yang di Blocked═════"
+                    msgs="═════Daftar คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣 di Blocked═════"
                     for ids in kontak:
                         msgs+="\n[%i] %s" % (num, ids.displayName)
                         num=(num+1)
@@ -3175,7 +3175,7 @@ def lineBot(op):
                          g = line.getGroup(receiver)
                          line.updateGroup(g)
                          gurl = line.reissueGroupTicket(receiver)
-                         line.sendMessage(receiver,"╔══════════════┓\n╠❂line://ti/g/" + gurl + "\n╠\n╠❂Link Groupnya Tanpa Buka Qr\n╚══════════════┛")
+                         line.sendMessage(receiver,"╔══════════════┓\n╠❂line://ti/g/" + gurl + "\n╠\n╠❂Link คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣 Qr\n╚══════════════┛")
 
                 elif msg.text == "เงี่ยน":
                 	line.sendMessage(receiver,">nekopoi.host\n>sexvideobokep.com\n>memek.com\n>pornktube.com\n>faketaxi.com\n>videojorok.com\n>watchmygf.mobi\n>xnxx.com\n>pornhd.com\n>xvideos.com\n>vidz7.com\n>m.xhamster.com\n>xxmovies.pro\n>youporn.com\n>pornhub.com\n>youjizz.com\n>thumzilla.com\n>anyporn.com\n>brazzers.com\n>redtube.com\n>youporn.com")
@@ -4054,7 +4054,7 @@ def lineBot(op):
                     line.sendText(msg.to,"อาการหนักนะเนี๊ยะ!!. อิอิ😝😝")				
                 if msg.text in dangerMessage:
                     random.choice(Rfu).kickoutFromGroup(receiver,[sender])
-                    random.choice(Rfu).sendText(msg.to,"ตรวจพบคำสั่งของบอทลบกลุ่ม  เอ็ม Bot Self จำเป็นต้องนำออกเพื่อความปลอดภัยของสมาชิก")										
+                    random.choice(Rfu).sendText(msg.to,"ตรวจพบคำสั่งของบอทลบกลุ่ม  คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣 จำเป็นต้องนำออกเพื่อความปลอดภัยของสมาชิก")										
         if op.type == 17:
           if settings["Wc"] == True:
             if op.param2 in bot1:
