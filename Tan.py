@@ -18,7 +18,7 @@ from googletrans import Translator
 botStart = time.time()
 #==============================================================================#
 #line = LINE()
-#line = LINE("Email","Passwd")
+line = LINE("panutchakorn_2533@hotmail.com","takumi2533")
 line = LINE('')
 line.log("Auth Token : " + str(line.authToken))
 line.log("Timeline Token : " + str(line.tl.channelAccessToken))
@@ -55,9 +55,9 @@ Exc = [line]
 lineMID = line.getProfile().mid
 bot1 = line.getProfile().mid
 RfuBot=[lineMID]
-Family=["u642a858e78858bce70e918aee5e53529",lineMID]
-admin = "u642a858e78858bce70e918aee5e53529" 
-admin=['u642a858e78858bce70e918aee5e53529',lineMID]
+Family=["u0b499ce24e07b16ec12f8d0ba3ef8438",lineMID]
+admin = "u0b499ce24e07b16ec12f8d0ba3ef8438" 
+admin=['u0b499ce24e07b16ec12f8d0ba3ef8438',lineMID]
 RfuFamily = RfuBot + Family
 
 protectname = []
