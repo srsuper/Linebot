@@ -256,7 +256,7 @@ def sendMessageWithMention(to, lineMID):
         logError(error)
  
 def myhelp():
-    myHelp = """ 🔯Bot Self🔯
+    myHelp = """ 🔯คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣🔯
 🚨คำสั่ง = คำสั่ง
 🚨คำสั่ง2 = คำสั่งเชลบอท
 🚨คำสั่ง3 = คำสั่งการแทค
@@ -265,11 +265,11 @@ def myhelp():
 💎คำสั่ง6 = คำสั่งกลุ่ม
 💎คำสั่ง7 = คำสั่งเลียนแบบ
 💎คำสั่ง8 = คำสั่งล่องหน
-🔱 🔱Bot Self🔱🔱"""
+🔱 🔱คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣🔱🔱"""
     return myHelp
 
 def listgrup():
-    listGrup =  """💢คำสั่งตั้งค่า BotSelf💢
+    listGrup =  """💢คำสั่งตั้งค่า คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣💢
 🌠เปิดเข้า ➠ เข้ากลุ่มออโต้
 🌠ปิดเข้า ➠ ปิดเข้ากลุ่มออโต้
 🌠เปิดบล็อค ➠ ออโต้บล็อค
@@ -322,7 +322,7 @@ def socmedia():
     return socMedia
     
 def helpset():
-    helpSet = """🔱🔱คำสั่งBotSelf🔱🔱
+    helpSet = """🔱🔱คำสั่ง คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣🔱🔱
 🛂 คม  🔀 คอนแทคเรา
 🛂 มิด  🔀 MID เรา
 🛂 ชื่อ  🔀 ชื่อเรา
@@ -354,7 +354,7 @@ def helpset():
     return helpSet 
 
 def helpkicker():
-    helpKicker = """⏳คำสั่งค้นหา BotSelf⏳
+    helpKicker = """⏳คำสั่งค้นหา คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣⏳
 📝 พูด ข้อความ ➠ สั่งสิริพูด
 📝 ยูทูป ข้อความ ➠ ค้นหาในยูทูป
 📝 เขียน ข้อความ ➠ เขียน
@@ -364,7 +364,7 @@ def helpkicker():
     return helpKicker
     
 def helpsetting():
-    helpSetting = """⚓คำสั่งกลุ่ม BotSelf⚓
+    helpSetting = """⚓คำสั่งกลุ่ม คุณออ๊ด𝐏𝓃𝕔𝐤@𝐒к𝓣⚓
 🍁 กลุ่ม ➠ ข้อมูลกลุ่ม
 🍁 ไอดีกลุ่ม ➠ไอดีห้อง
 🍁 ชื่อกลุ่ม ➠ ชื่อห้อง
